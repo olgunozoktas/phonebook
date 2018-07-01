@@ -8,7 +8,10 @@ PhoneBook_App -> includes all codes for application
 #### Php / config.php
 In this file, you have to change required fields as your informations.
 
-# Application
+# Application - OverView
+
+![Application Gif](/images/application.Gif)
+
 
 Application Looks Like as follows;
 
@@ -20,23 +23,22 @@ In this page, user have to provide email and password to log in to their account
 ## Register Page
 In this page, if user does not have any account, can create an account
 
-![Login Page](/images/Register.PNG)
+![Register Page](/images/Register.PNG)
 
 ## User Page
 In this page, user can see the contacts that saved before to the account
 
-![Login Page](/images/UserPage.PNG)
+![User Page](/images/UserPage.PNG)
 
 ## Edit Page
 In this page, user can select and record from the table and according to this table can edit the contact informations.
 
-![Login Page](/images/EditRecord.PNG)
+![Edit Record Page](/images/EditRecord.PNG)
 
 ## Add New Page
 In this page, user will be able to add new contact to the account by providing the informations.
 
-![Login Page](/images/AddNew.PNG)
-
+![Add New Page](/images/AddNew.PNG)
 
 
 
