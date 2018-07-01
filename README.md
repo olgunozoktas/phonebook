@@ -10,7 +10,7 @@ In this file, you have to change required fields as your informations.
 
 # Application - OverView
 
-![Application Gif](/images/application.Gif)
+![Alt Text](/images/application.gif)
 
 
 Application Looks Like as follows;
