@@ -30,10 +30,12 @@ In this page, user can see the contacts that saved before to the account
 ## Edit Page
 In this page, user can select and record from the table and according to this table can edit the contact informations.
 
-![Login Page](/images/EditPage.PNG)
+![Login Page](/images/EditRecord.PNG)
 
 ## Add New Page
 In this page, user will be able to add new contact to the account by providing the informations.
+
+![Login Page](/images/AddNew.PNG)
 
 
 
