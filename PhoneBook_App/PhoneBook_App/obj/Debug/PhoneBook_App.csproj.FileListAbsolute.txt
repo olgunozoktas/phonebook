@@ -1,0 +1,16 @@
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\obj\Debug\PhoneBook_App.csprojResolveAssemblyReference.cache
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\obj\Debug\PhoneBook_App.LoginForm.resources
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\obj\Debug\PhoneBook_App.Properties.Resources.resources
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\obj\Debug\PhoneBook_App.UserPage.resources
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\obj\Debug\PhoneBook_App.csproj.GenerateResource.Cache
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\obj\Debug\PhoneBook_App.csproj.CoreCompileInputs.cache
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\bin\Debug\PhoneBook_App.exe.config
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\bin\Debug\PhoneBook_App.exe
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\bin\Debug\PhoneBook_App.pdb
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\obj\Debug\PhoneBook_App.exe
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\obj\Debug\PhoneBook_App.pdb
+C:\Users\Olgun\OneDrive\Belgeler\Visual Studio 2017\Projects\PhoneBook_App\PhoneBook_App\obj\Debug\PhoneBook_App.AddUser.resources
