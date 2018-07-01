@@ -3,7 +3,7 @@ This application connects to the external server by php webservices to authentic
 
 Application Looks Like as follows;
 
-# Login Page
+## Login Page
 In this page, user have to provide email and password to log in to their accounts to see their contacts.
 
 ![Login Page](/images/Login.PNG)
